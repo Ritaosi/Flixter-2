@@ -1,25 +1,26 @@
-# project-3-Resubmission
-
-# Project 3 - *Flixter*
+# Project 2 - *Flixter*
 
 Submitted by: **Rita Osi**
 
-**Flixter** is an app that introduces network calls to fetch data from third part libraries... [TODO] 
+**Flixter** is a movie browsing app that displays movies and gives a brief information about them.
 
-Time spent: **9** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [X] Implement network call and table view to display a list of movies currently playing (title, description, image)
-- [X] App has a collection view with the same list of movies
-- [X] Uses a tab bar controller to switch between collection view and table view screens
+- [X] Users are able to see a customized app icon and launch screen
+- [X] Your app should work for any screen size and orientation using AutoLayout constraints
+  - [ ] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
+- [X] Displays at least 5 different movies in a table view
+- [X] Can tap into detail view of movie with a full description, backdrop image, and title
  
 The following **optional** features are implemented:
 
-- [ ] Make an additional network call to another end-point.	
-- [ ] Allow users to scroll when context items are off-screen (table view implemention)
+- [ ] Unique UI changes, such as background, font/color changes, etc.
+- [ ] User implements a collection view
+- [ ] User implemenets tab bar controller with at least two screens
 
 The following **additional** features are implemented:
 
@@ -29,10 +30,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Ritaosi/project-3-Resubmission/blob/main/ezgif.com-video-to-gif%20(4).gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/uAolXdS.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ezgif  
+GIF created with Imgur   
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -56,4 +57,4 @@ Describe any challenges encountered while building the app.
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
-    limitations under the License. 
+    limitations under the License.
